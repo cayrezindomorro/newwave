@@ -1,0 +1,18 @@
+Requisitos Funcionais:
+RF001 - Sistema deve permitir cadastro de usuário
+RF002 - Sistema deve permitir cadastro do animal
+RF003 - Sistema deve conter localização do animal
+RF004 - Sistema deve notificar baixa de produtos vendidos na loja
+RF005 - Sistema deve informar numéro de banhos e tosas
+RF006 - Sistema deve informar disponibilidade de produtos na loja e funcionários
+RF007 - Sistema deve emitir nota fiscal
+RF008 - Sistema deve armazenar os dados
+
+
+Requisitos não funcionais:
+RNF001 - Sistema deve informar com qual funcinário o pet está
+RNF002 - Sistema de login separado para funcionários
+RNF003 - Sistema desenvolvido em java
+RNF004 - Sistema funcionando em IOS e Android
+RNF005 - Aplicativo abrir em menos de 5 segundos
+RNF006 - Preços pré-estabelicido no app
